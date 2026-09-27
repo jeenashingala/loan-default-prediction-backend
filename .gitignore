@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+loan_predictions.db
+.DS_Store
