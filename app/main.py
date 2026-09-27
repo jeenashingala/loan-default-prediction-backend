@@ -151,7 +151,7 @@ allowed_origins = [
     "http://127.0.0.1:3000",
 
     # Deployed Vercel frontend
-    "loan-default-prediction-frontend-phi.vercel.app",
+    "https://loan-default-prediction-frontend-phi.vercel.app",
 ]
 
 
